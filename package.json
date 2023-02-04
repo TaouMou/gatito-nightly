@@ -1,0 +1,21 @@
+{
+  "name": "gatito-nightly",
+  "displayName": "Gatito Nightly",
+  "description": "Fork of Gatito Theme with a darker background and more use of accent color.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gatito Nightly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gatito Nightly-color-theme.json"
+      }
+    ]
+  }
+}
