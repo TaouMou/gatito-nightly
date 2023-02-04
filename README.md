@@ -14,4 +14,4 @@ To install this theme:
 
 ### Preview:
 
-![Preview of the theme](Preview.png?raw=true "Preview")
+![Preview of the theme](images/Preview.png?raw=true "Preview")
