@@ -2,7 +2,8 @@
   "name": "gatito-nightly",
   "displayName": "Gatito Nightly",
   "description": "Darker fork of Gatito Theme with more use of accent color.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "TaouMou",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.75.0"
@@ -12,8 +13,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TaouMou/gatito-nightly.git"
+    "url": "https://github.com/TaouMou/gatito-nightly"
 },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "gatito",
+    "nightly",
+    "taoumou",
+    "dark",
+    "gatito dark"
+  ],
   "contributes": {
     "themes": [
       {
