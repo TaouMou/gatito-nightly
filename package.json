@@ -2,7 +2,7 @@
   "name": "gatito-nightly",
   "displayName": "Gatito Nightly",
   "description": "Darker fork of Gatito Theme with more use of accent color.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "TaouMou",
   "icon": "images/logo.png",
   "engines": {
