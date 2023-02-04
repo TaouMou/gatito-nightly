@@ -249,31 +249,31 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ffffff"
 			}
 		},
 		{
 			"scope": "keyword, storage.type, storage.modifier",
 			"settings": {
-				"foreground": "#C594C5"
+				"foreground": "#CE7474"
 			}
 		},
 		{
 			"scope": "keyword.operator, constant.other.color, punctuation, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution",
 			"settings": {
-				"foreground": "#5FB3B3"
+				"foreground": "#cfcfcf"
 			}
 		},
 		{
 			"scope": "entity.name.tag, meta.tag.sgml, markup.deleted.git_gutter",
 			"settings": {
-				"foreground": "#EB606B"
+				"foreground": "#ce7474"
 			}
 		},
 		{
 			"scope": "entity.name.function, meta.function-call, variable.function, support.function, keyword.other.special-method, meta.block-level",
 			"settings": {
-				"foreground": "#6699CC"
+				"foreground": "#aab3e7"
 			}
 		},
 		{
@@ -285,13 +285,13 @@
 		{
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
 			"settings": {
-				"foreground": "#F99157"
+				"foreground": "#aca9a9"
 			}
 		},
 		{
 			"scope": "string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
-				"foreground": "#99C794"
+				"foreground": "#7ac9a0"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#BB80B3"
+				"foreground": "#eec78b"
 			}
 		},
 		{
@@ -352,7 +352,7 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#5FB3B3"
+				"foreground": "#a4d6af"
 			}
 		},
 		{
@@ -446,6 +446,7 @@
 			"scope": [
 				"invalid",
 				"keyword.operator",
+				"constant.numeric",
 				"constant.numeric.css",
 				"keyword.other.unit.px.css",
 				"constant.numeric.decimal.js",
