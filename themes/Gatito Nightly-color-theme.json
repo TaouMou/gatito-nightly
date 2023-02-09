@@ -4,6 +4,7 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#171b1d",
+    "activityBar.activeBorder": "#70393b",
     "activityBar.activeBackground": "#202525",
     "activityBar.border": "#202525",
     "activityBar.foreground": "#d4d4d4",
