@@ -1,8 +1,8 @@
 {
   "name": "gatito-nightly",
   "displayName": "Gatito Nightly",
-  "description": "Fork of Gatito Theme with darker background and more use of accent color.",
-  "version": "1.1.0",
+  "description": "Fork of Gatito Theme with darker background and more use of accent color, and another theme with Nord colors.",
+  "version": "1.2.0",
   "publisher": "TaouMou",
   "icon": "images/logo.png",
   "engines": {
@@ -16,20 +16,28 @@
     "url": "https://github.com/TaouMou/gatito-nightly"
 },
   "keywords": [
-    "theme",
-    "dark theme",
-    "gatito",
-    "nightly",
-    "taoumou",
-    "dark",
-    "gatito dark"
+    "Theme",
+    "Dark theme",
+    "Gatito",
+    "Nord",
+    "Darker Nord",
+    "Nordic",
+    "Nightly",
+    "Taoumou",
+    "Dark",
+    "Gatito dark"
   ],
   "contributes": {
     "themes": [
       {
         "label": "Gatito Nightly",
         "uiTheme": "vs-dark",
-        "path": "./themes/Gatito Nightly-color-theme.json"
+        "path": "./themes/gatito-color-theme.json"
+      },
+      {
+        "label": "Gatito Nightly Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gatito-blue-color-theme.json"
       }
     ]
   }
