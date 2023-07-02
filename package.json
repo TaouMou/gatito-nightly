@@ -6,6 +6,7 @@
   "publisher": "TaouMou",
   "license": "MIT",
   "icon": "images/logo.png",
+  "homepage": "https://github.com/TaouMou/gatito-nightly/blob/main/README.md",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -20,13 +21,15 @@
     "Theme",
     "Dark theme",
     "Gatito",
+    "Gatito Nightly",
+    "Blue",
     "Nord",
     "Darker Nord",
     "Nordic",
     "Nightly",
     "Taoumou",
     "Dark",
-    "Gatito dark"
+    "Gatito Dark"
   ],
   "contributes": {
     "themes": [
