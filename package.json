@@ -2,7 +2,7 @@
   "name": "gatito-nightly",
   "displayName": "Gatito Nightly",
   "description": "Fork of Gatito Theme with darker background and more use of accent color, and another theme with Nord colors.",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "publisher": "TaouMou",
   "license": "MIT",
   "icon": "images/logo.png",
