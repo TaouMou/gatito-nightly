@@ -34,9 +34,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gatito Nightly",
+        "label": "Gatito Nightly Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/gatito-color-theme.json"
+        "path": "./themes/gatito-red-color-theme.json"
       },
       {
         "label": "Gatito Nightly Blue",
