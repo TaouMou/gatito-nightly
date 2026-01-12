@@ -18,7 +18,7 @@ To install this theme:
 
 ___
 
-![Preview of the theme](./images/Preview.png?raw=true "Preview")
+![Preview of the theme](./images/Preview_Red.png?raw=true "Preview")
 
 ### Preview for Gatito Nightly Blue
 
