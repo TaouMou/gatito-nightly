@@ -1,6 +1,6 @@
 # Gatito Nightly
 
-Fork of the theme "Gatito Theme" but with darker background color and more use of the accent color.
+Fork of the theme "Gatito Theme".
 
 I am a big fan of Nord, so there is also an added theme with similar UI colors, but with Nord syntax highlighting and accent, called `Gatitio Nightly Blue`.
 
@@ -9,12 +9,12 @@ To install this theme:
   2.  Search for Gatito Theme.
   3.  Install & reload.
   4.  ⌘ + ⇧ + P and type "Color Theme".
-  5.  Pick `Gatito Nightly` or `Gatito Nightly Blue` from the list and hit enter.
+  5.  Pick `Gatito Nightly Red` or `Gatito Nightly Blue` from the list and hit enter.
   6.  Done.
 
 **Enjoy!**
 
-### Preview for Gatitio Nightly
+### Preview for Gatitio Nightly Red
 
 ___
 
