@@ -1,13 +1,13 @@
 # Feles
 
-*Feles* is Latin for cat. Feles is a set of soft, JetBrains-inspired dark and light themes in four cat coats:
+Feles is a set of soft, dark and light themes in four cat coats:
 
-| Coat | Accent | Code colors |
-|---|---|---|
-| **Cinnamon** | Cherrywood red | Gatito, warm |
-| **Russian Blue** | Teal | Nord |
-| **Siamese** | JetBrains blue | JetBrains Islands Dark and IntelliJ Light |
-| **Marmalade** | Gold | Ayu Dark and Ayu Light |
+| Coat | Accent |
+|---|---|
+| **Cinnamon** | Cherrywood Red |
+| **Russian Blue** | Teal |
+| **Siamese** | JetBrains Blue |
+| **Marmalade** | Gold |
 
 All four share the same low-contrast UI and italics, and each comes in a `Dark` and a `Light` version.
 
@@ -54,19 +54,11 @@ For the full look, these settings go well with it:
 
 ### Marmalade
 
-Marmalade pairs its gold accent with the code colors of [Ayu](https://github.com/ayu-theme/vscode-ayu), whose signature accent is the same gold: orange keywords, golden function names, green strings and purple numbers.
-
-### Building
-
-Siamese and Marmalade are generated from Russian Blue. After changing a Russian Blue theme, run `node scripts/build-variants.js` to update them.
-
-The previews below are taken by `npm run screenshots`, which opens VS Code with each theme and saves them to `images/`. Add a word to only take some, for example `npm run screenshots -- siamese`.
-
-Each accent takes its code colors from an established scheme with a matching signature color: JetBrains for Siamese, Ayu for Marmalade.
+Marmalade pairs its gold accent with the code colors of [Ayu](https://github.com/ayu-theme/vscode-ayu).
 
 ### Credits
 
-Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito-theme) by Paweł Grzybek. Siamese's code colors come from the JetBrains Islands Dark and IntelliJ Light schemes, and Marmalade's from [Ayu](https://github.com/ayu-theme/vscode-ayu) by Ike Kurghinyan (MIT).
+Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito-theme). Siamese's code colors come from the JetBrains Islands Dark and IntelliJ Light schemes, and Marmalade's from [Ayu](https://github.com/ayu-theme/vscode-ayu).
 
 **Enjoy!**
 
