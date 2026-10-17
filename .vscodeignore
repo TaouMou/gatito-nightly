@@ -1,3 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+sample.ts
+package-lock.json
+scripts/**
