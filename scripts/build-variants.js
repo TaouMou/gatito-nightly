@@ -47,7 +47,10 @@ const variants = [
 			"textLink.activeForeground": "#6b9bfa",
 			"editor.findMatchBackground": "#114957",
 			"editor.findMatchBorder": "#165e70",
-			"editor.findMatchHighlightBackground": "#11495799"
+			"editor.findMatchHighlightBackground": "#11495799",
+			// Git graph labels share one text color across the blue ref and the pastel remote and base refs,
+			// and white is unreadable on the pastels
+			"scmGraph.historyItemHoverLabelForeground": "#000000"
 		}
 	},
 	{

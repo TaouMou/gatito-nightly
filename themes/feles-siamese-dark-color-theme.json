@@ -574,7 +574,7 @@
 		"scmGraph.historyItemBaseRefColor": "#b48ead",
 		"scmGraph.historyItemHoverAdditionsForeground": "#8fa886",
 		"scmGraph.historyItemHoverDeletionsForeground": "#b9727a",
-		"scmGraph.historyItemHoverLabelForeground": "#ffffff",
+		"scmGraph.historyItemHoverLabelForeground": "#000000",
 		"scmGraph.historyItemHoverDefaultLabelForeground": "#c6cad1",
 		"scmGraph.historyItemHoverDefaultLabelBackground": "#2a2e35",
 		"terminal.inactiveSelectionBackground": "#2a417080",
