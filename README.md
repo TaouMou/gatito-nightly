@@ -60,6 +60,8 @@ Marmalade pairs its gold accent with the code colors of [Ayu](https://github.com
 
 Siamese and Marmalade are generated from Russian Blue. After changing a Russian Blue theme, run `node scripts/build-variants.js` to update them.
 
+The previews below are taken by `npm run screenshots`, which opens VS Code with each theme and saves them to `images/`. Add a word to only take some, for example `npm run screenshots -- siamese`.
+
 Each accent takes its code colors from an established scheme with a matching signature color: JetBrains for Siamese, Ayu for Marmalade.
 
 ### Credits
@@ -68,14 +70,36 @@ Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito
 
 **Enjoy!**
 
-### Preview of Cinnamon
+### Previews
 
-___
+#### Feles Cinnamon Dark
 
-![Preview of the theme](./images/Preview_Red.png?raw=true "Preview")
+![Feles Cinnamon Dark](./images/preview-cinnamon-dark.png "Feles Cinnamon Dark")
 
-### Preview of Russian Blue
+#### Feles Cinnamon Light
 
-___
+![Feles Cinnamon Light](./images/preview-cinnamon-light.png "Feles Cinnamon Light")
 
-![Preview of the theme](./images/Preview_Blue.png?raw=true "Preview")
+#### Feles Russian Blue Dark
+
+![Feles Russian Blue Dark](./images/preview-russian-blue-dark.png "Feles Russian Blue Dark")
+
+#### Feles Russian Blue Light
+
+![Feles Russian Blue Light](./images/preview-russian-blue-light.png "Feles Russian Blue Light")
+
+#### Feles Siamese Dark
+
+![Feles Siamese Dark](./images/preview-siamese-dark.png "Feles Siamese Dark")
+
+#### Feles Siamese Light
+
+![Feles Siamese Light](./images/preview-siamese-light.png "Feles Siamese Light")
+
+#### Feles Marmalade Dark
+
+![Feles Marmalade Dark](./images/preview-marmalade-dark.png "Feles Marmalade Dark")
+
+#### Feles Marmalade Light
+
+![Feles Marmalade Light](./images/preview-marmalade-light.png "Feles Marmalade Light")
