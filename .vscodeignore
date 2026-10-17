@@ -1,3 +1,9 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+sample.ts
+package-lock.json
+scripts/**
+images/logo.svg
+images/preview-*.png
+node_modules/**

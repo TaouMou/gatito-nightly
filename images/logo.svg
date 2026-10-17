@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128">
+	<!-- Feles: a paw print with one toe bean per coat (Cinnamon, Russian Blue, Siamese, Marmalade) -->
+	<rect width="128" height="128" rx="28" fill="#181a1f"/>
+	<path d="M64 62 C44 62 32 80 34 94 C36 106 48 108 64 104 C80 108 92 106 94 94 C96 80 84 62 64 62Z" fill="#c6cad1"/>
+	<ellipse cx="32" cy="58" rx="10" ry="13" transform="rotate(-20 32 58)" fill="#bc5f5e"/>
+	<ellipse cx="51" cy="36" rx="10" ry="14" transform="rotate(-6 51 36)" fill="#8abbaf"/>
+	<ellipse cx="77" cy="36" rx="10" ry="14" transform="rotate(6 77 36)" fill="#3574f0"/>
+	<ellipse cx="96" cy="58" rx="10" ry="13" transform="rotate(20 96 58)" fill="#d7a54b"/>
+</svg>
