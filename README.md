@@ -12,6 +12,14 @@ To install this theme:
   5.  Pick `Gatito Nightly Red` or `Gatito Nightly Blue` from the list and hit enter.
   6.  Done.
 
+Both themes also come in a light version, `Gatito Daylight Red` and `Gatito Daylight Blue`. To switch between the dark and light version with your system theme, add this to your settings:
+
+```json
+"window.autoDetectColorScheme": true,
+"workbench.preferredDarkColorTheme": "Gatito Nightly Red",
+"workbench.preferredLightColorTheme": "Gatito Daylight Red"
+```
+
 **Enjoy!**
 
 ### Preview for Gatitio Nightly Red

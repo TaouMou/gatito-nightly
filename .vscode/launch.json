@@ -9,8 +9,11 @@
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
+            // The extension has no code to debug, and attaching the debugger crashes the window.
+            "noDebug": true,
             "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
+                "--extensionDevelopmentPath=${workspaceFolder}",
+                "--disable-extensions"
             ]
         }
     ]
