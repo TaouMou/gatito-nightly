@@ -1,12 +1,12 @@
 {
-  "name": "gatito-nightly",
+  "name": "feles",
   "displayName": "Feles",
-  "description": "Soft, JetBrains-inspired dark and light themes in four cat coats: Cinnamon, Russian Blue, Siamese and Marmalade.",
+  "description": "Soft, JetBrains-inspired dark and light themes in seven cat coats: Cinnamon, Russian Blue, Siamese, Marmalade, Lilac, Chartreux and Tuxedo.",
   "version": "2.0.0",
   "publisher": "TaouMou",
   "license": "MIT",
   "icon": "images/logo.png",
-  "homepage": "https://github.com/TaouMou/gatito-nightly/blob/main/README.md",
+  "homepage": "https://github.com/TaouMou/feles/blob/main/README.md",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TaouMou/gatito-nightly"
+    "url": "https://github.com/TaouMou/feles"
   },
   "keywords": [
     "Theme",
@@ -27,6 +27,12 @@
     "Russian Blue",
     "Siamese",
     "Marmalade",
+    "Lilac",
+    "Chartreux",
+    "Tuxedo",
+    "Catppuccin",
+    "Everforest",
+    "Alabaster",
     "JetBrains",
     "Islands",
     "Nord",
@@ -79,6 +85,36 @@
         "label": "Feles Marmalade Light",
         "uiTheme": "vs",
         "path": "./themes/feles-marmalade-light-color-theme.json"
+      },
+      {
+        "label": "Feles Lilac Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/feles-lilac-dark-color-theme.json"
+      },
+      {
+        "label": "Feles Lilac Light",
+        "uiTheme": "vs",
+        "path": "./themes/feles-lilac-light-color-theme.json"
+      },
+      {
+        "label": "Feles Chartreux Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/feles-chartreux-dark-color-theme.json"
+      },
+      {
+        "label": "Feles Chartreux Light",
+        "uiTheme": "vs",
+        "path": "./themes/feles-chartreux-light-color-theme.json"
+      },
+      {
+        "label": "Feles Tuxedo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/feles-tuxedo-dark-color-theme.json"
+      },
+      {
+        "label": "Feles Tuxedo Light",
+        "uiTheme": "vs",
+        "path": "./themes/feles-tuxedo-light-color-theme.json"
       }
     ]
   },

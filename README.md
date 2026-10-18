@@ -1,6 +1,6 @@
 # Feles
 
-Feles is a set of soft, dark and light themes in four cat coats:
+Feles is a set of soft, dark and light themes in seven cat coats:
 
 | Coat | Accent |
 |---|---|
@@ -8,8 +8,11 @@ Feles is a set of soft, dark and light themes in four cat coats:
 | **Russian Blue** | Teal |
 | **Siamese** | JetBrains Blue |
 | **Marmalade** | Gold |
+| **Lilac** | Lavender |
+| **Chartreux** | Sage |
+| **Tuxedo** | Silver |
 
-All four share the same low-contrast UI and italics, and each comes in a `Dark` and a `Light` version.
+All seven share the same low-contrast UI and italics, and each comes in a `Dark` and a `Light` version.
 
 To install:
   1.  Open Extensions on the sidebar.
@@ -56,9 +59,21 @@ For the full look, these settings go well with it:
 
 Marmalade pairs its gold accent with the code colors of [Ayu](https://github.com/ayu-theme/vscode-ayu).
 
+### Lilac
+
+Lilac pairs its lavender accent with the code colors of [Catppuccin](https://github.com/catppuccin/vscode): Mocha for the dark version and Latte for the light one.
+
+### Chartreux
+
+Chartreux pairs its sage accent with the code colors of [Everforest](https://github.com/sainnhe/everforest-vscode).
+
+### Tuxedo
+
+Tuxedo is the quiet one: a silver accent and the code colors of [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster), which only highlights strings, constants, comments and definitions, and leaves keywords, types and calls in the text color.
+
 ### Credits
 
-Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito-theme). Siamese's code colors come from the JetBrains Islands Dark and IntelliJ Light schemes, and Marmalade's from [Ayu](https://github.com/ayu-theme/vscode-ayu).
+Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito-theme). Siamese's code colors come from the JetBrains Islands Dark and IntelliJ Light schemes, Marmalade's from [Ayu](https://github.com/ayu-theme/vscode-ayu), Lilac's from [Catppuccin](https://github.com/catppuccin/vscode), Chartreux's from [Everforest](https://github.com/sainnhe/everforest-vscode) and Tuxedo's from [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster).
 
 **Enjoy!**
 
@@ -95,3 +110,27 @@ Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito
 #### Feles Marmalade Light
 
 ![Feles Marmalade Light](./images/preview-marmalade-light.png "Feles Marmalade Light")
+
+#### Feles Lilac Dark
+
+![Feles Lilac Dark](./images/preview-lilac-dark.png "Feles Lilac Dark")
+
+#### Feles Lilac Light
+
+![Feles Lilac Light](./images/preview-lilac-light.png "Feles Lilac Light")
+
+#### Feles Chartreux Dark
+
+![Feles Chartreux Dark](./images/preview-chartreux-dark.png "Feles Chartreux Dark")
+
+#### Feles Chartreux Light
+
+![Feles Chartreux Light](./images/preview-chartreux-light.png "Feles Chartreux Light")
+
+#### Feles Tuxedo Dark
+
+![Feles Tuxedo Dark](./images/preview-tuxedo-dark.png "Feles Tuxedo Dark")
+
+#### Feles Tuxedo Light
+
+![Feles Tuxedo Light](./images/preview-tuxedo-light.png "Feles Tuxedo Light")
