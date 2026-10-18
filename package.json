@@ -44,25 +44,21 @@
     "themes": [
       {
         "label": "Feles Cinnamon Dark",
-        "id": "Gatito Nightly Red",
         "uiTheme": "vs-dark",
         "path": "./themes/feles-cinnamon-dark-color-theme.json"
       },
       {
         "label": "Feles Cinnamon Light",
-        "id": "Gatito Daylight Red",
         "uiTheme": "vs",
         "path": "./themes/feles-cinnamon-light-color-theme.json"
       },
       {
         "label": "Feles Russian Blue Dark",
-        "id": "Gatito Nightly Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/feles-russian-blue-dark-color-theme.json"
       },
       {
         "label": "Feles Russian Blue Light",
-        "id": "Gatito Daylight Blue",
         "uiTheme": "vs",
         "path": "./themes/feles-russian-blue-light-color-theme.json"
       },

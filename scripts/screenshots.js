@@ -46,7 +46,7 @@ const themes = pkg.contributes.themes
 	.filter((t) => filters.every((f) => t.label.toLowerCase().includes(f)))
 	.map((t) => ({
 		label: t.label,
-		// workbench.colorTheme takes the id when there is one, which the older themes keep for existing users
+		// workbench.colorTheme takes the id when a theme has one, and the label otherwise
 		setting: t.id || t.label,
 		// The workbench gets a class built from the theme path, e.g. "...-themes-feles-siamese-dark-color-theme-json"
 		cssClass: t.path.replace(/^\.\//, "").replace(/[^a-z0-9]/gi, "-").toLowerCase(),
