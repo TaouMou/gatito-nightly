@@ -59,12 +59,12 @@ const variants = [
 		type: "light",
 		scheme: "jetbrains",
 		accent: {
-			"#3b6a85": "#3574f0", // accent
-			"#345d75": "#3369d6", // accent hover
-			"#c4d2da": "#a6d2ff", // text selection
-			"#1f4a63": "#315fbd", // match highlight on selection
-			"#d1dce3": "#d0def8", // active activity bar button
-			"#bacbd4": "#b8cefa" // list, palette and autocomplete selection
+			"#377263": "#2b62d9", // accent, a step deeper than Siamese Dark's #3574f0
+			"#2f6155": "#2556c2", // accent hover
+			"#c3d8d2": "#a6d2ff", // text selection
+			"#1f4f43": "#315fbd", // match highlight on selection
+			"#d0e0db": "#d0def8", // active activity bar button
+			"#b8cfc8": "#b8cefa" // list, palette and autocomplete selection
 		},
 		code: {
 			fg: "#080808", keyword: "#0033b3", string: "#067d17", number: "#1750eb", comment: "#8c8c8c",
@@ -119,12 +119,12 @@ const variants = [
 		name: "Feles Marmalade Light",
 		type: "light",
 		accent: {
-			"#3b6a85": "#9a6700", // accent
-			"#345d75": "#855900", // accent hover
-			"#c4d2da": "#e1d1b3", // text selection
-			"#1f4a63": "#6e4a00", // match highlight on selection
-			"#d1dce3": "#e4dbc8", // active activity bar button
-			"#bacbd4": "#dccaa6" // list, palette and autocomplete selection
+			"#377263": "#9a6700", // accent
+			"#2f6155": "#855900", // accent hover
+			"#c3d8d2": "#e1d1b3", // text selection
+			"#1f4f43": "#6e4a00", // match highlight on selection
+			"#d0e0db": "#e4dbc8", // active activity bar button
+			"#b8cfc8": "#dccaa6" // list, palette and autocomplete selection
 		},
 		scheme: "ayu",
 		code: {
