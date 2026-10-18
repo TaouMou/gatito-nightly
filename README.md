@@ -12,11 +12,9 @@ Feles is a set of soft, dark and light themes in seven cat coats:
 | **Chartreux** | Sage |
 | **Tuxedo** | Silver |
 
-All seven share the same low-contrast UI and italics, and each comes in a `Dark` and a `Light` version.
-
 To install:
   1.  Open Extensions on the sidebar.
-  2.  Search for Feles.
+  2.  Search for Feles Theme.
   3.  Install & reload.
   4.  ⌘ + ⇧ + P and type "Color Theme".
   5.  Pick a Feles theme from the list, for example `Feles Siamese Dark`, and hit enter.
@@ -31,7 +29,7 @@ To switch between the dark and light version with your system theme, add this to
 
 ### Coming from Gatito Nightly
 
-Feles used to be called Gatito Nightly. Its Red and Blue themes are now Cinnamon and Russian Blue. Feles is a separate extension, so install it and pick a Feles theme again: settings that name a Gatito theme, like `"workbench.colorTheme": "Gatito Nightly Red"`, won't find it.
+Feles used to be called Gatito Nightly. Its Red and Blue themes are now Cinnamon and Russian Blue. Feles is a separate extension.
 
 ### Siamese
 
@@ -67,8 +65,6 @@ Tuxedo is the quiet one: a silver accent and the code colors of [Alabaster](http
 Feles started as a fork of [Gatito Theme](https://github.com/pawelgrzybek/gatito-theme). Siamese's code colors come from the JetBrains Islands Dark and IntelliJ Light schemes, Marmalade's from [Ayu](https://github.com/ayu-theme/vscode-ayu), Lilac's from [Catppuccin](https://github.com/catppuccin/vscode), Chartreux's from [Everforest](https://github.com/sainnhe/everforest-vscode) and Tuxedo's from [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster).
 
 **Enjoy!**
-
-### Previews
 
 #### Feles Cinnamon Dark
 

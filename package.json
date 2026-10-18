@@ -1,8 +1,8 @@
 {
-  "name": "feles",
-  "displayName": "Feles",
+  "name": "feles-theme",
+  "displayName": "Feles Theme",
   "description": "Soft, JetBrains-inspired dark and light themes in seven cat coats: Cinnamon, Russian Blue, Siamese, Marmalade, Lilac, Chartreux and Tuxedo.",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "publisher": "TaouMou",
   "license": "MIT",
   "icon": "images/logo.png",
