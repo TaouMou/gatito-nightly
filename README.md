@@ -31,16 +31,7 @@ To switch between the dark and light version with your system theme, add this to
 
 ### Coming from Gatito Nightly
 
-Feles used to be called Gatito Nightly. The Red and Blue themes are now Cinnamon and Russian Blue, and keep their old setting names so existing settings keep working:
-
-| Theme | Setting name |
-|---|---|
-| Feles Cinnamon Dark | `Gatito Nightly Red` |
-| Feles Cinnamon Light | `Gatito Daylight Red` |
-| Feles Russian Blue Dark | `Gatito Nightly Blue` |
-| Feles Russian Blue Light | `Gatito Daylight Blue` |
-
-Use these names for Cinnamon and Russian Blue in settings like `workbench.preferredDarkColorTheme`.
+Feles used to be called Gatito Nightly. Its Red and Blue themes are now Cinnamon and Russian Blue. Feles is a separate extension, so install it and pick a Feles theme again: settings that name a Gatito theme, like `"workbench.colorTheme": "Gatito Nightly Red"`, won't find it.
 
 ### Siamese
 
