@@ -24,7 +24,6 @@ const variants = [
 			"#8abbaf": "#3574f0", // accent
 			"#98c3b9": "#366ace", // accent hover
 			"#0d1212": "#ffffff", // text on accent
-			"#3a4a4a": "#21355e", // list hover, including context menus
 			"#3f5050": "#2a4170", // text selection
 			"#b6e3d6": "#99bbff", // match highlight on selection
 			"#2f3a3c": "#1e2c49", // active activity bar button
@@ -62,7 +61,6 @@ const variants = [
 		accent: {
 			"#3b6a85": "#3574f0", // accent
 			"#345d75": "#3369d6", // accent hover
-			"#ced9e0": "#ccdbf8", // list hover, including context menus
 			"#c4d2da": "#a6d2ff", // text selection
 			"#1f4a63": "#315fbd", // match highlight on selection
 			"#d1dce3": "#d0def8", // active activity bar button
@@ -96,7 +94,6 @@ const variants = [
 			"#8abbaf": "#d7a54b", // accent
 			"#98c3b9": "#e0b462", // accent hover
 			"#0d1212": "#1a1408", // text on accent
-			"#3a4a4a": "#51442c", // list hover, including context menus
 			"#3f5050": "#574930", // text selection
 			"#b6e3d6": "#f0d49a", // match highlight on selection
 			"#2f3a3c": "#3e3628", // active activity bar button
@@ -124,7 +121,6 @@ const variants = [
 		accent: {
 			"#3b6a85": "#9a6700", // accent
 			"#345d75": "#855900", // accent hover
-			"#ced9e0": "#e3d8c3", // list hover, including context menus
 			"#c4d2da": "#e1d1b3", // text selection
 			"#1f4a63": "#6e4a00", // match highlight on selection
 			"#d1dce3": "#e4dbc8", // active activity bar button
