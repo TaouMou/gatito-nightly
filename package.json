@@ -6,7 +6,7 @@
   "publisher": "TaouMou",
   "license": "MIT",
   "icon": "images/logo.png",
-  "homepage": "https://github.com/TaouMou/gatito-nightly/blob/main/README.md",
+  "homepage": "https://github.com/TaouMou/feles/blob/main/README.md",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TaouMou/gatito-nightly"
+    "url": "https://github.com/TaouMou/feles"
   },
   "keywords": [
     "Theme",
